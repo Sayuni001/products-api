@@ -13,7 +13,7 @@ public class Product {
         this.price = price;
     }
     public long getID() {return id; }
-
+//get method turned to comment then removed.
     public String getName() {return name; }
 
     public double getPrice() {return price; }
